@@ -1,0 +1,14 @@
+D:\personal projects\LeetCode\Roman to Integer\bin\Debug\net7.0\Roman to Integer.exe
+D:\personal projects\LeetCode\Roman to Integer\bin\Debug\net7.0\Roman to Integer.deps.json
+D:\personal projects\LeetCode\Roman to Integer\bin\Debug\net7.0\Roman to Integer.runtimeconfig.json
+D:\personal projects\LeetCode\Roman to Integer\bin\Debug\net7.0\Roman to Integer.dll
+D:\personal projects\LeetCode\Roman to Integer\bin\Debug\net7.0\Roman to Integer.pdb
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.AssemblyInfoInputs.cache
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.AssemblyInfo.cs
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.dll
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\refint\Roman to Integer.dll
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.pdb
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\Roman to Integer.genruntimeconfig.cache
+D:\personal projects\LeetCode\Roman to Integer\obj\Debug\net7.0\ref\Roman to Integer.dll
