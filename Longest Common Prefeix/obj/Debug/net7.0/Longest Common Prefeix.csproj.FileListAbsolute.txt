@@ -1,0 +1,14 @@
+D:\personal projects\LeetCode\Longest Common Prefeix\bin\Debug\net7.0\Longest Common Prefeix.exe
+D:\personal projects\LeetCode\Longest Common Prefeix\bin\Debug\net7.0\Longest Common Prefeix.deps.json
+D:\personal projects\LeetCode\Longest Common Prefeix\bin\Debug\net7.0\Longest Common Prefeix.runtimeconfig.json
+D:\personal projects\LeetCode\Longest Common Prefeix\bin\Debug\net7.0\Longest Common Prefeix.dll
+D:\personal projects\LeetCode\Longest Common Prefeix\bin\Debug\net7.0\Longest Common Prefeix.pdb
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.AssemblyInfoInputs.cache
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.AssemblyInfo.cs
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.csproj.CoreCompileInputs.cache
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.dll
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\refint\Longest Common Prefeix.dll
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.pdb
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\Longest Common Prefeix.genruntimeconfig.cache
+D:\personal projects\LeetCode\Longest Common Prefeix\obj\Debug\net7.0\ref\Longest Common Prefeix.dll
