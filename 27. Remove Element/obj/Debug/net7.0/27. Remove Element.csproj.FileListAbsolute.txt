@@ -1,0 +1,15 @@
+D:\VJ_Projects\LeetCode\27. Remove Element\bin\Debug\net7.0\27. Remove Element.exe
+D:\VJ_Projects\LeetCode\27. Remove Element\bin\Debug\net7.0\27. Remove Element.deps.json
+D:\VJ_Projects\LeetCode\27. Remove Element\bin\Debug\net7.0\27. Remove Element.runtimeconfig.json
+D:\VJ_Projects\LeetCode\27. Remove Element\bin\Debug\net7.0\27. Remove Element.dll
+D:\VJ_Projects\LeetCode\27. Remove Element\bin\Debug\net7.0\27. Remove Element.pdb
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.csproj.AssemblyReference.cache
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.AssemblyInfoInputs.cache
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.AssemblyInfo.cs
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.dll
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\refint\27. Remove Element.dll
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.pdb
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\27. Remove Element.genruntimeconfig.cache
+D:\VJ_Projects\LeetCode\27. Remove Element\obj\Debug\net7.0\ref\27. Remove Element.dll
