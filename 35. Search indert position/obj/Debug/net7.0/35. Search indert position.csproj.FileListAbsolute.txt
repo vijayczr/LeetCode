@@ -1,0 +1,15 @@
+D:\VJ_Projects\LeetCode\35. Search indert position\bin\Debug\net7.0\35. Search indert position.exe
+D:\VJ_Projects\LeetCode\35. Search indert position\bin\Debug\net7.0\35. Search indert position.deps.json
+D:\VJ_Projects\LeetCode\35. Search indert position\bin\Debug\net7.0\35. Search indert position.runtimeconfig.json
+D:\VJ_Projects\LeetCode\35. Search indert position\bin\Debug\net7.0\35. Search indert position.dll
+D:\VJ_Projects\LeetCode\35. Search indert position\bin\Debug\net7.0\35. Search indert position.pdb
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.csproj.AssemblyReference.cache
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.AssemblyInfoInputs.cache
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.AssemblyInfo.cs
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.dll
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\refint\35. Search indert position.dll
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.pdb
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\35. Search indert position.genruntimeconfig.cache
+D:\VJ_Projects\LeetCode\35. Search indert position\obj\Debug\net7.0\ref\35. Search indert position.dll
