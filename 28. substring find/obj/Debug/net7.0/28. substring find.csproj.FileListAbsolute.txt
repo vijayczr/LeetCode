@@ -1,0 +1,15 @@
+D:\VJ_Projects\LeetCode\28. substring find\bin\Debug\net7.0\28. substring find.exe
+D:\VJ_Projects\LeetCode\28. substring find\bin\Debug\net7.0\28. substring find.deps.json
+D:\VJ_Projects\LeetCode\28. substring find\bin\Debug\net7.0\28. substring find.runtimeconfig.json
+D:\VJ_Projects\LeetCode\28. substring find\bin\Debug\net7.0\28. substring find.dll
+D:\VJ_Projects\LeetCode\28. substring find\bin\Debug\net7.0\28. substring find.pdb
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.csproj.AssemblyReference.cache
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.AssemblyInfoInputs.cache
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.AssemblyInfo.cs
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.dll
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\refint\28. substring find.dll
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.pdb
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\28. substring find.genruntimeconfig.cache
+D:\VJ_Projects\LeetCode\28. substring find\obj\Debug\net7.0\ref\28. substring find.dll
