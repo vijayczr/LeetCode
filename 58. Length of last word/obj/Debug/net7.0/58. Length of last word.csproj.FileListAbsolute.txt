@@ -1,0 +1,15 @@
+D:\VJ_Projects\LeetCode\58. Length of last word\bin\Debug\net7.0\58. Length of last word.exe
+D:\VJ_Projects\LeetCode\58. Length of last word\bin\Debug\net7.0\58. Length of last word.deps.json
+D:\VJ_Projects\LeetCode\58. Length of last word\bin\Debug\net7.0\58. Length of last word.runtimeconfig.json
+D:\VJ_Projects\LeetCode\58. Length of last word\bin\Debug\net7.0\58. Length of last word.dll
+D:\VJ_Projects\LeetCode\58. Length of last word\bin\Debug\net7.0\58. Length of last word.pdb
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.csproj.AssemblyReference.cache
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.AssemblyInfoInputs.cache
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.AssemblyInfo.cs
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.csproj.CoreCompileInputs.cache
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.dll
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\refint\58. Length of last word.dll
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.pdb
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\58. Length of last word.genruntimeconfig.cache
+D:\VJ_Projects\LeetCode\58. Length of last word\obj\Debug\net7.0\ref\58. Length of last word.dll
